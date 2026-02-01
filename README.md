@@ -56,7 +56,7 @@ Implementation Procedure:
 
 Screenshot:
 
-<img width="1917" height="728" alt="Screenshot 2026-01-31 180058" src="https://github.com/user-attachments/assets/f23956ca-f23d-4d3a-b79a-6b9ff30d95b4" />
+
 
 <img width="1885" height="905" alt="Screenshot 2026-01-31 180555" src="https://github.com/user-attachments/assets/e23afa01-5638-402e-83aa-b3dcbb1a9ae9" />
 
