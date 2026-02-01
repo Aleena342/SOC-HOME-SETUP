@@ -78,7 +78,7 @@ Tuned detection rules to reduce false positives and improve alert accuracy.
 Gained experience working with Linux and Windows log sources in an enterprise-style environment.
 
 
-Future Improvements
+Future Improvements:
 
 Implement an ELK Stack–based SIEM deployment for comparative analysis and expanded monitoring capabilities.
 
