@@ -1,5 +1,5 @@
 # SOC-HOME-SETUP
-Indroduction: 
+Introduction: 
 
 This project establishes a Security Operations Center (SOC) home lab environment to emulate real-world cyberattacks and detection capabilities using Splunk, incorporating log forwarding, attack simulation, and alert generation to demonstrate comprehensive security monitoring and incident detection.  
 
